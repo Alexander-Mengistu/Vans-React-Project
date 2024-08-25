@@ -1,0 +1,7 @@
+in this example we covered useLcoation 
+
+imagine you go to vans click on the filter "luxury" than clicked on "back to all vans" your filters will be gone, in this case, using useLcoation your filter will remain
+
+in this example we saved filter to history so when you go back your filter will remian.
+
+to find the codes for use State go to "VanDetail"
